@@ -1,5 +1,6 @@
 .form-container {
   width: 408px;
+  margin-bottom: 50px;
 }
 
 .feedback-form {
@@ -61,4 +62,9 @@
 }
 .form-btn:hover {
   cursor: pointer;
+}
+
+.homepage-link {
+  font-family: Montserrat, sans-serif;
+  padding: 24px;
 }
